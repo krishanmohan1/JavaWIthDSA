@@ -22,8 +22,8 @@ class LoopArray{
 
 
         // for each loop aise lagate hain
-        for(int ar : arr){  // esme (ar) koi naam hai , esme all element ko print karega .
-            System.out.println(ar);
+        for(int var : arr){  // esme (ar) koi naam hai , esme all element ko print karega .
+            System.out.println(var);
         }
 
         // while loop

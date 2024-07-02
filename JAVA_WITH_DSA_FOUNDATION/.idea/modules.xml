@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA_WITH_DSA_FOUNDATION.iml" filepath="$PROJECT_DIR$/JAVA_WITH_DSA_FOUNDATION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_revision/java_revision.iml" filepath="$PROJECT_DIR$/java_revision/java_revision.iml" />
+    </modules>
+  </component>
+</project>
